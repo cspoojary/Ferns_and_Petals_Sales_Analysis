@@ -41,7 +41,6 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
 - Time Analysis
   - Order Timing:
   Revenue peaks between 5 PM - 6 PM, suggesting that customers are most active during evening hours.
-
   - Monthly Trends:
   February (Valentine's season) and August (Raksha Bandhan) had the highest sales spikes, aligning with key gifting seasons.
 

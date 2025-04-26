@@ -67,3 +67,9 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
 - Interactive Dashboard Design
 - Data Cleaning & Preparation
 - KPI Calculation & Performance Metrics
+
+## Conclusion
+The FNP Sales Dashboard provides a holistic overview of sales performance, customer trends, and operational efficiency.
+It serves as a strong foundation for business growth strategies, seasonal marketing campaigns, and product development initiatives.
+
+This project highlights skills in business analysis, data visualization, and dashboard creation, making it a valuable addition to a professional analytics portfolio.

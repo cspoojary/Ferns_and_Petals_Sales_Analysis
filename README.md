@@ -59,3 +59,11 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
   - Cities like Dhanbad, Kavali, and Imphal accounted for the highest number of orders.
   - Growth in Tier-2 and Tier-3 cities suggests a shift toward broader market penetration.
 
+## Tools & Techniques Used
+- Microsoft Excel:
+  - Pivot Tables
+  - Pivot Charts
+  - Timeline Slicers
+- Interactive Dashboard Design
+- Data Cleaning & Preparation
+- KPI Calculation & Performance Metrics

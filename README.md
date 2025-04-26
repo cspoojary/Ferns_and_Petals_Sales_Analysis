@@ -35,5 +35,5 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
   - Delivery Period: Apr 2024 – Jul 2024
 
 ## Dashboard
-![FNP Dashboard]()
+![FNP Dashboard](https://github.com/cspoojary/Ferns_and_Petals_Sales_Analysis/blob/main/fnp%20dashboard.png)
 

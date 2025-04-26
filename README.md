@@ -46,9 +46,8 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
   February (Valentine's season) and August (Raksha Bandhan) had the highest sales spikes, aligning with key gifting seasons.
 
 - Occasion-Based Revenue
-Anniversaries and Holi generated the highest revenues among all occasions.
-
-Diwali and Valentine's Day also contributed significantly, indicating strong seasonal demand.
+  - Anniversaries and Holi generated the highest revenues among all occasions.
+  - Diwali and Valentine's Day also contributed significantly, indicating strong seasonal demand.
 
 📦 Product Category Analysis
 Colors category topped the revenue charts, followed by Soft Toys and Sweets.

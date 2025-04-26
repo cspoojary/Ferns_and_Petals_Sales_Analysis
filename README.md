@@ -48,16 +48,14 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
   - Anniversaries and Holi generated the highest revenues among all occasions.
   - Diwali and Valentine's Day also contributed significantly, indicating strong seasonal demand.
 
-📦 Product Category Analysis
-Colors category topped the revenue charts, followed by Soft Toys and Sweets.
+- Product Category Analysis
+  - Colors category topped the revenue charts, followed by Soft Toys and Sweets.
+  - Traditional gifting items like Plants and Mugs generated moderate revenue.
 
-Traditional gifting items like Plants and Mugs generated moderate revenue.
+- Top Products
+  - The Magnam Set, Quia Gift, and Dolores Gift were the highest revenue-generating products.
 
-🛍 Top Products
-The Magnam Set, Quia Gift, and Dolores Gift were the highest revenue-generating products.
-
-🌍 Geographical Trends
-Cities like Dhanbad, Kavali, and Imphal accounted for the highest number of orders.
-
-Growth in Tier-2 and Tier-3 cities suggests a shift toward broader market penetration.
+- Geographical Trends
+  - Cities like Dhanbad, Kavali, and Imphal accounted for the highest number of orders.
+  - Growth in Tier-2 and Tier-3 cities suggests a shift toward broader market penetration.
 

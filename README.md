@@ -24,7 +24,7 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
 9.	Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
 10.	Product Popularity by Occasion: Identify which products are most popular during specific occasions.
 
-- Dashboard Interaction <a href = " ">View Dashboard</a>
+- Dashboard Interaction <a href = "https://github.com/cspoojary/Ferns_and_Petals_Sales_Analysis/blob/main/fnp%20dashboard.xlsx">View Dashboard</a>
 
 ### Data Summary
   - Total Orders: 1,000

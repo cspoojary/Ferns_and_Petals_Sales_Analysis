@@ -5,6 +5,7 @@ A comprehensive sales analysis dashboard built in Excel, designed to visualize a
 I've been given a dataset from FNP (Ferns and Petals), a company that specializes in sending gifts for occasions like Diwali, Raksha Bandhan, Holi, Valentine's Day, Birthdays, and Anniversaries. The dataset includes details about products, orders, customers, and relevant dates. My goal is to analyze this data to uncover key insights related to sales trends, customer behavior, and product performance.
 - <a href = "https://github.com/cspoojary/Ferns_and_Petals_Sales_Analysis/tree/main/fnp%20datasaet">Dataset </a>
 
+
 ## Project overview
 This project focuses on developing a Sales Analysis Dashboard for Ferns N Petals (FNP), a leading gifting platform.
 The objective is to provide deep insights into sales trends, customer spending behavior, top-performing products, and seasonal demand, enabling better business decisions and strategic planning.
@@ -22,4 +23,12 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
 8.	Order Quantity vs. Delivery Time: Analyze if higher order quantities impact delivery times.
 9.	Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
 10.	Product Popularity by Occasion: Identify which products are most popular during specific occasions.
+
+### Data Summary
+  - Total Orders: 1,000
+  - Total Revenue: ₹35,20,984.00
+  - Average Order & Delivery Time: 5.53 hours
+  - Average Customer Spend: ₹3,520.98
+  - Order Period	Sep 2023 – Dec 2023
+  - Delivery Period	Apr 2024 – Jul 2024
 

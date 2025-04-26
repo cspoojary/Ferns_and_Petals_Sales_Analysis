@@ -29,6 +29,6 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
   - Total Revenue: ₹35,20,984.00
   - Average Order & Delivery Time: 5.53 hours
   - Average Customer Spend: ₹3,520.98
-  - Order Period	Sep 2023 – Dec 2023
-  - Delivery Period	Apr 2024 – Jul 2024
+  - Order Period: Sep 2023 – Dec 2023
+  - Delivery Period: Apr 2024 – Jul 2024
 

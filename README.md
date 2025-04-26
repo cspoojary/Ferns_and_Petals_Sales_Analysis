@@ -37,3 +37,29 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
 ## Dashboard
 ![FNP Dashboard](https://github.com/cspoojary/Ferns_and_Petals_Sales_Analysis/blob/main/fnp%20dashboard.png)
 
+## Project Insights
+- Time Analysis
+  - Order Timing:
+  Revenue peaks between 5 PM - 6 PM, suggesting that customers are most active during evening hours.
+
+Monthly Trends:
+February (Valentine's season) and August (Raksha Bandhan) had the highest sales spikes, aligning with key gifting seasons.
+
+🎉 Occasion-Based Revenue
+Anniversaries and Holi generated the highest revenues among all occasions.
+
+Diwali and Valentine's Day also contributed significantly, indicating strong seasonal demand.
+
+📦 Product Category Analysis
+Colors category topped the revenue charts, followed by Soft Toys and Sweets.
+
+Traditional gifting items like Plants and Mugs generated moderate revenue.
+
+🛍 Top Products
+The Magnam Set, Quia Gift, and Dolores Gift were the highest revenue-generating products.
+
+🌍 Geographical Trends
+Cities like Dhanbad, Kavali, and Imphal accounted for the highest number of orders.
+
+Growth in Tier-2 and Tier-3 cities suggests a shift toward broader market penetration.
+

@@ -24,6 +24,8 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
 9.	Revenue Comparison Between Occasions: Compare revenue generated across different occasions.
 10.	Product Popularity by Occasion: Identify which products are most popular during specific occasions.
 
+- Dashboard Interaction <a href = " ">View Dashboard</a>
+
 ### Data Summary
   - Total Orders: 1,000
   - Total Revenue: ₹35,20,984.00

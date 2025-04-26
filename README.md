@@ -34,3 +34,6 @@ The project was completed using Microsoft Excel, leveraging pivot tables, pivot 
   - Order Period: Sep 2023 – Dec 2023
   - Delivery Period: Apr 2024 – Jul 2024
 
+## Dashboard
+![FNP Dashboard]()
+
